@@ -1,13 +1,22 @@
+#intro {
+  color: rgb(23, 156, 156);
+}
+
 body {
-  background-color: lightblue;
+  background-color: rgb(255, 245, 251);
 }
 
 h1 {
-  color: white;
+  color: rgb(20, 129, 172);
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
 
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
 }
